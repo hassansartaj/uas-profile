@@ -3,7 +3,7 @@ This repository contains two UML profiles, one for modeling structural aspects o
 
 ## Directory Structure
 
-[uas-profile](./)
+### uas-profile
  * [uml](./uml)
    * *UAVStructuralProfile* for modeling structural aspects of UAS system under test.
    * *UAVBehavioralProfile* for modeling UAV flight behavior.
