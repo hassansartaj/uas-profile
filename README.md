@@ -1,5 +1,12 @@
-# UAV Modeling Profiles
-This repository contains two UML profiles, one for modeling UAV domain concepts and the other for modeling UAV flight behavior. The following files contain these profiles. 
+# UAS Modeling Profiles
+This repository contains two UML profiles, one for modeling structural aspects of UAS system under test and the other for modeling UAV flight behavior. The following directory structure contain these profiles in the form of UML files and images. 
 
-* *UAVStructuralProfile* for modeling UAV domain.
-* *UAVBehavioralProfile* for modeling UAV flight behavior.
+## Directory Structure
+
+[uas-profile](.uas-profile)
+ * [uml](./profile/uml)
+  * *UAVStructuralProfile* for modeling structural aspects of UAS system under test.
+  * *UAVBehavioralProfile* for modeling UAV flight behavior.
+ * [images](./profile/images)
+ * Images of modeling UAS system under test and UAV flight behavior.
+
